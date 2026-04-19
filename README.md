@@ -1,4 +1,4 @@
-Guia Prático Pix
+# Guia Prático Pix
 Este repositório reúne um ambiente de estudo digital sobre o Pix, sistema de pagamentos instantâneos do Brasil, com foco especial no Pix Automático e sua integração ao ecossistema do Open Finance.
 
 📌 Conteúdo
@@ -25,5 +25,5 @@ Desenvolvedores que desejam integrar o Pix em suas soluções.
 Usuários que buscam entender melhor o funcionamento dos pagamentos automáticos.
 
 
-# Link -  Guia prático de como funciona o Pix e Pix Automático
+-- Link -  Guia prático de como funciona o Pix e Pix Automático
 https://notebooklm.google.com/notebook/a3f84470-f82c-42f5-9966-066d7395b0b3
